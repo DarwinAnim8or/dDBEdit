@@ -1,5 +1,5 @@
 # dDBEdit
-A quickly written CLI tool to help artists add objects to Happy Flower
+A quickly written CLI tool to help artists add objects to Happy Flower. The code isn't particularly pretty.
 
 # Requirements
 This assumes that https://github.com/leethomason/tinyxml2 is present (the main .cpp and .h file) in the same directory as main.cpp.
